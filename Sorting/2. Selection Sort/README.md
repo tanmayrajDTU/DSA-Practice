@@ -228,4 +228,4 @@ This preserves the relative order of equal elements but increases the number of 
 - It always performs **O(n²)** comparisons regardless of input order.
 - It requires only **O(n)** swaps, making it useful when swaps are expensive.
 - It is simple to implement but generally less efficient than Insertion Sort for nearly sorted data.
-- Standard Selection Sort is **not stable**, though a stable variant can be implemented.
+- Standard Selection Sort is **not stable**, though a stable variant can be implemented easily.
