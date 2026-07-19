@@ -103,7 +103,7 @@ This problem can be solved using **recursion**.
   1! = 1
   ```
 
-Each recursive call multiplies the current value of `n` with the factorial of the previous number until the recursion terminates at the base case.
+Each recursive call multiplies the current value of `n` with the factorial of the previous number until the recursion terminates at the base case when `n` is `0` or `1` .
 
 ---
 
