@@ -1,6 +1,6 @@
 # Bubble Sort
 
-## 📝 Problem Statement
+## 📝 Problem Statement for Bubble Sort
 
 Given an integer array `nums`, sort the array in **non-decreasing order** using the **Bubble Sort** algorithm and return the sorted array.
 
