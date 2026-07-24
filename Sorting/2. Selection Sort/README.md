@@ -1,6 +1,6 @@
 # Selection Sort
 
-## 📝 Problem Statement
+## 📝 Problem Statement for Selection Sort
 
 Given an integer array `nums`, sort the array in **non-decreasing order** using the **Selection Sort** algorithm and return the sorted array.
 
